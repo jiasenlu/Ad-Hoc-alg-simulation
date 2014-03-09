@@ -8,3 +8,6 @@ Colony routing in Ad-Hoc network.
 
 The code is only developed to simulated searching the route for the ad-hoc network or wireless sensor network. The code 
 including the simulation of AODVm LAR, GRID and GAR. 
+
+The code is free of scientific purpose use，if you use or modified the code, please cited the paper, thanks.
+
